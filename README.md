@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Ayrton Costa
 
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistema
-- 📍 Brasília- DF
+- 📍  Brasília
 - 🔭 Minha área de atuação é front-end e tenho experiência profissional com Angular 
 - 🌱 Estudando Typescript/JavaScript
 ##
