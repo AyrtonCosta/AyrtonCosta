@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistema
 - 📍 Brasília- DF
-- 🔭 Hoje trabalho com front-end e tenho experiência profissional com Angular 
+- 🔭 Minha área de atuação é front-end e tenho experiência profissional com Angular 
 - 🌱 Estudando Typescript/JavaScript
 ##
 <div>
