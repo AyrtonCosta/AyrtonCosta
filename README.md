@@ -1,21 +1,29 @@
-# Hey 👋
+## Olá! Eu sou a Ayrton Costa
 
-My name is Ayrton Costa 🙆🏻‍♂️🇧🇷
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistema
+- 📍 Brasília- DF
+- 🔭 Hoje trabalho com front-end e tenho experiência profissional com Angular 
+- 🌱 Estudando Typescript/JavaScript
+##
+<div>
+  <a href="https://github.com/AyrtonCosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyrtonCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonCosta&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-Graduated in the Systems Analysis and Development Course, looking for a job as FrontEnd JR  💻
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Logo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div> 
  
+ ##
 
-Always open to new challenges and ready to face changes.♻️
+ <div>
+  <a href="https://www.linkedin.com/in/ayrton-costa-467a23180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 📍 From Brasília - DF
-
-
-Reach me out 👇🏼
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrton-costa-467a23180/)](https://www.linkedin.com/in/ayrton-costa-467a23180/) 
+ ![Snake animation](https://github.com/AyrtonCosta/AyrtonCosta/blob/output/github-contribution-grid-snake.svg)
